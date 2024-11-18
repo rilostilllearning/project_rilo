@@ -2,6 +2,6 @@
 Haloo Lekk 
 
 TAMPILAN WEBSITE
-![gambar] (ftony/113907.png)
-![gambar] (ftony/113929.png)
-![gambar] (ftony/114039.png)
+![gambar] (https://github.com/rilostilllearning/project_rilo/blob/master/ftony/Cuplikan%20layar%202024-11-18%20113907.png)
+![gambar] (https://github.com/rilostilllearning/project_rilo/blob/master/ftony/Cuplikan%20layar%202024-11-18%20113929.png)
+![gambar] (https://github.com/rilostilllearning/project_rilo/blob/master/ftony/Cuplikan%20layar%202024-11-18%20114039.png)
